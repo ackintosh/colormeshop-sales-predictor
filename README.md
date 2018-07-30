@@ -20,3 +20,7 @@ pipenv run flask run
 - Model: Simple linear regression
 - Learning algorithm: Least squares 
 - Features: Temperatures (powered by [Dark Sky](https://darksky.net/poweredby/))
+
+###### Disclaimer
+
+This is just a practice to learn machine learning. :wink:
